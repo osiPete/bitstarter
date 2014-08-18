@@ -1,0 +1,2 @@
+#ph: custom env config when setting up new instance
+export GITHUB_USERNAME=osiPete
